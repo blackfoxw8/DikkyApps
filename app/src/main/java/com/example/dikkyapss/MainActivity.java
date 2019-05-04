@@ -21,6 +21,9 @@ import android.os.Bundle;
     Aplikasi V0.4 3 Mei 2019
     - Membuat Recycler View Daily, Gallery
     Aplikasi V0.5 4 Mei 2019
+    - Membuat Recycler Music
+    - Menampilkan Maps
+    - About Aplikasi
 
  */
 
