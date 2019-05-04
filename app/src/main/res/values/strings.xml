@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DikkyApss</string>
+    <string name="hello_semua_nya">Hello Semua nya</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    // TODO: 22/02/18
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+
+    <string name="gambar">gambar</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="title_activity_menu_utama">MenuUtama</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu__utama">Menu_Utama</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="gallery">Gallery</string>
+    <string name="music">Music</string>
+    <string name="profile">Profile</string>
+    <string name="dikky_dermawan_saputra">Dikky Dermawan Saputra</string>
+    <string name="seorang">Seorang Mahasiswa yang sedang menimba ilmu di Unikom Bandung</string>
+    <string name="social_media">Social Media</string>
+    <string name="interest">Interest</string>
+    <string name="bermain_game_online">Bermain Game Online</string>
+    <string name="pecinta_dunia_aviasi">Pecinta Dunia Aviasi</string>
+    <string name="mahasiswa_unikom">Mahasiswa Unikom</string>
+    <string name="contact_me">Contact Me</string>
+    <string name="find_me">Find Me</string>
+    <string name="about">About</string>
+    <string name="friend_list">Friend List</string>
+    <string name="about_dikky_apps">About Dikky Apps</string>
+    <string name="aplikasi_v0_5">Aplikasi V0.5</string>
+    <string name="close">Close</string>
+    <string name="favorite_music">Favorite Music</string>
+    <string name="about_app">About App</string>
+    <string name="button">button</string>
+</resources>
